@@ -1,19 +1,19 @@
 <header>
-        <h1><a href="https://quantimportbrazil.github.io/Sobre/">QuantImport</a></h1>
-    </header>
-    
-    ---
-    
-    # Previsão de Importação - Jundiaí-SP
-    
-    > **Emissão:** 07-2025
-    > Para fins de comparação, também apresentamos a seguir previsões e valores reais de períodos anteriores ao atual.
-    > As previsões foram geradas com base em dados limitados até o mês 7.
-    
-    ---
-    
-    **[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
-    
+<h1><a href="https://quantimportbrazil.github.io/Sobre/">QuantImport</a></h1>
+</header>
+
+---
+
+# Previsão de Importação - Jundiaí-SP
+
+> **Emissão:** 07-2025  
+> Para fins de comparação, também apresentamos a seguir previsões e valores reais de períodos anteriores ao atual.  
+> As previsões foram geradas com base em dados limitados até o mês 7.
+
+---
+
+**[Home](https://quantimportbrazil.github.io/Sobre/)** | **[Selecionar Estado (UF)](https://quantimportbrazil.github.io/Unidades_Federativas/)**
+
 
 ![Gráfico de Previsão](31023000.png)
 Fator de Influência em Destaque:

@@ -24,7 +24,7 @@ Previsão Influenciada:
 - Mês previsto: 02
 
 
-Fator Influenciador: Comex
+Fator Influenciador: Quantidade em Comex
 - Unidade Federativa: SP
 - Grupo de Produto (SH2): Combustíveis minerais, óleos minerais e produtos da sua destilação; matérias betuminosas; ceras minerais-27 
 - Mês: 1
@@ -45,7 +45,7 @@ Previsão Influenciada:
 - Mês previsto: 11
 
 
-Fator Influenciador: Comex
+Fator Influenciador: Quantidade em Comex
 - Unidade Federativa: MS
 - Grupo de Produto (SH2): Adubos (fertilizantes)-31 
 - Mês: 3
@@ -66,7 +66,7 @@ Previsão Influenciada:
 - Mês previsto: 05
 
 
-Fator Influenciador: Comex
+Fator Influenciador: Quantidade em Comex
 - Unidade Federativa: MG
 - Grupo de Produto (SH2): Adubos (fertilizantes)-31 
 - Mês: 6
